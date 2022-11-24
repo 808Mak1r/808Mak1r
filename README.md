@@ -1,13 +1,16 @@
-<!-- markdownlint-disable-file MD033 -->
-<!-- markdownlint-disable-file MD041 -->
+### 👋 Hi, I'm 808Mak1r
+
+## About Me
+- Rust
+- Cloud Native Security Research
+- email: 808Mak1r@gmail.com
+- blog: https://808mak1r.com/
+
+![macOS](https://img.shields.io/badge/macOS-Monterey-000?style=for-the-badge&logo=apple&logoColor=fff)
+![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=kubernetes)
 
 <img src="https://raw.githubusercontent.com/808Mak1r/808Mak1r/main/pika.gif" alt="pika" width="500px" />
-
-👋 Hi, I'm 808Mak1r ([https://808mak1r.com/](https://808mak1r.com/)).
-
-![macOS](https://img.shields.io/badge/macOS-BigSur-000?style=for-the-badge&logo=apple&logoColor=fff)
-![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust)
-
 
 <!--
 ### Hi there 👋
