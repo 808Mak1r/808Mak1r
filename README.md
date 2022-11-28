@@ -2,9 +2,10 @@
 
 ## About Me
 - Rust
-- Cloud Native Security Research
-- email: 808Mak1r@gmail.com
-- blog: https://808mak1r.com/
+- Currently engaged in security research
+- Email: 808Mak1r@gmail.com
+- Blog: https://808mak1r.com/
+- Game: Path of Exile(GGG is so fucking stupid)
 
 ![macOS](https://img.shields.io/badge/macOS-Monterey-000?style=for-the-badge&logo=apple&logoColor=fff)
 ![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust)
