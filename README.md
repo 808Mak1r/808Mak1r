@@ -10,6 +10,7 @@
 ![macOS](https://img.shields.io/badge/macOS-Monterey-000?style=for-the-badge&logo=apple&logoColor=fff)
 ![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=kubernetes)
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/808Mak1r/808Mak1r/main/pika.gif" alt="pika" width="500px" />
 
