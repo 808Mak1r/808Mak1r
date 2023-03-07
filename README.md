@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm 808Mak1r
 
 ## About Me
-- Rust
+- Rust&Go
 - Currently engaged in security research
 - Email: 808Mak1r@gmail.com
 - Blog: https://808mak1r.com/
